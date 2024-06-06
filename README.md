@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to predict the number of medals a country can win in future Olympic Games using a linear regression model. The model is trained on historical data of Olympic teams, including features such as past medal counts, GDP, population, and other relevant factors.
+This project aims to predict the number of medals a country can win in future Olympic Games using a linear regression model. The model is trained on historical data of Olympic teams, including features such as past medal counts, athlete count and predicted medals.
 
 ## Dataset
 The dataset used in this project includes the following features for each country:
